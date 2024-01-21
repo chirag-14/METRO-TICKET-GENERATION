@@ -1,0 +1,76 @@
+18-Dec-2023 14:32:57 INFO - Starting IdGenerationApplication v0.0.1-SNAPSHOT using Java 19.0.2 with PID 1472 (C:\Users\HP\Desktop\metro_ticket\Metro-Ticket\target\IdGeneration-0.0.1-SNAPSHOT.jar started by CHIRAG in C:\Users\HP\Desktop\metro_ticket\Metro-Ticket\target)
+18-Dec-2023 14:32:57 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Dec-2023 14:32:58 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+18-Dec-2023 14:32:58 INFO - Finished Spring Data repository scanning in 94 ms. Found 1 JPA repository interfaces.
+18-Dec-2023 14:32:59 INFO - HikariPool-1 - Starting...
+18-Dec-2023 14:33:00 INFO - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@467f77a5
+18-Dec-2023 14:33:00 INFO - HikariPool-1 - Start completed.
+18-Dec-2023 14:33:00 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+18-Dec-2023 14:33:01 INFO - HHH000412: Hibernate ORM core version 6.2.5.Final
+18-Dec-2023 14:33:01 INFO - HHH000406: Using bytecode reflection optimizer
+18-Dec-2023 14:33:01 INFO - HHH000021: Bytecode provider name : bytebuddy
+18-Dec-2023 14:33:01 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+18-Dec-2023 14:33:02 INFO - HHH000021: Bytecode provider name : bytebuddy
+18-Dec-2023 14:33:03 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18-Dec-2023 14:33:03 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+18-Dec-2023 14:33:04 INFO - Started IdGenerationApplication in 7.392 seconds (process running for 9.46)
+18-Dec-2023 14:33:04 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+18-Dec-2023 14:33:04 INFO - HikariPool-1 - Shutdown initiated...
+18-Dec-2023 14:33:05 INFO - HikariPool-1 - Shutdown completed.
+18-Dec-2023 14:33:10 INFO - Starting IdGenerationApplication v0.0.1-SNAPSHOT using Java 19.0.2 with PID 14940 (C:\Users\HP\Desktop\metro_ticket\Metro-Ticket\target\IdGeneration-0.0.1-SNAPSHOT.jar started by CHIRAG in C:\Users\HP\Desktop\metro_ticket\Metro-Ticket\target)
+18-Dec-2023 14:33:10 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Dec-2023 14:33:11 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+18-Dec-2023 14:33:11 INFO - Finished Spring Data repository scanning in 82 ms. Found 1 JPA repository interfaces.
+18-Dec-2023 14:33:12 INFO - HikariPool-1 - Starting...
+18-Dec-2023 14:33:13 INFO - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4201a617
+18-Dec-2023 14:33:13 INFO - HikariPool-1 - Start completed.
+18-Dec-2023 14:33:13 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+18-Dec-2023 14:33:13 INFO - HHH000412: Hibernate ORM core version 6.2.5.Final
+18-Dec-2023 14:33:13 INFO - HHH000406: Using bytecode reflection optimizer
+18-Dec-2023 14:33:14 INFO - HHH000021: Bytecode provider name : bytebuddy
+18-Dec-2023 14:33:14 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+18-Dec-2023 14:33:15 INFO - HHH000021: Bytecode provider name : bytebuddy
+18-Dec-2023 14:33:16 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18-Dec-2023 14:33:16 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+18-Dec-2023 14:33:17 INFO - Started IdGenerationApplication in 7.093 seconds (process running for 9.062)
+18-Dec-2023 14:33:17 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+18-Dec-2023 14:33:17 INFO - HikariPool-1 - Shutdown initiated...
+18-Dec-2023 14:33:17 INFO - HikariPool-1 - Shutdown completed.
+18-Dec-2023 14:33:24 INFO - Starting IdGenerationApplication v0.0.1-SNAPSHOT using Java 19.0.2 with PID 5212 (C:\Users\HP\Desktop\metro_ticket\Metro-Ticket\target\IdGeneration-0.0.1-SNAPSHOT.jar started by CHIRAG in C:\Users\HP\Desktop\metro_ticket\Metro-Ticket\target)
+18-Dec-2023 14:33:24 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Dec-2023 14:33:25 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+18-Dec-2023 14:33:25 INFO - Finished Spring Data repository scanning in 89 ms. Found 1 JPA repository interfaces.
+18-Dec-2023 14:33:26 INFO - HikariPool-1 - Starting...
+18-Dec-2023 14:33:27 INFO - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1bb9aa43
+18-Dec-2023 14:33:27 INFO - HikariPool-1 - Start completed.
+18-Dec-2023 14:33:27 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+18-Dec-2023 14:33:27 INFO - HHH000412: Hibernate ORM core version 6.2.5.Final
+18-Dec-2023 14:33:27 INFO - HHH000406: Using bytecode reflection optimizer
+18-Dec-2023 14:33:28 INFO - HHH000021: Bytecode provider name : bytebuddy
+18-Dec-2023 14:33:28 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+18-Dec-2023 14:33:28 INFO - HHH000021: Bytecode provider name : bytebuddy
+18-Dec-2023 14:33:30 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18-Dec-2023 14:33:30 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+18-Dec-2023 14:33:31 INFO - Started IdGenerationApplication in 6.916 seconds (process running for 8.94)
+18-Dec-2023 14:33:31 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+18-Dec-2023 14:33:31 INFO - HikariPool-1 - Shutdown initiated...
+18-Dec-2023 14:33:31 INFO - HikariPool-1 - Shutdown completed.
+18-Dec-2023 14:36:29 INFO - Starting IdGenerationApplication v0.0.1-SNAPSHOT using Java 19.0.2 with PID 16772 (C:\Users\HP\Desktop\metro_ticket\Metro-Ticket\target\IdGeneration-0.0.1-SNAPSHOT.jar started by CHIRAG in C:\Users\HP\Desktop\metro_ticket\Metro-Ticket\target)
+18-Dec-2023 14:36:29 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Dec-2023 14:36:29 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+18-Dec-2023 14:36:29 INFO - Finished Spring Data repository scanning in 109 ms. Found 1 JPA repository interfaces.
+18-Dec-2023 14:36:30 INFO - HikariPool-1 - Starting...
+18-Dec-2023 14:36:31 INFO - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1bb9aa43
+18-Dec-2023 14:36:31 INFO - HikariPool-1 - Start completed.
+18-Dec-2023 14:36:31 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+18-Dec-2023 14:36:32 INFO - HHH000412: Hibernate ORM core version 6.2.5.Final
+18-Dec-2023 14:36:32 INFO - HHH000406: Using bytecode reflection optimizer
+18-Dec-2023 14:36:32 INFO - HHH000021: Bytecode provider name : bytebuddy
+18-Dec-2023 14:36:32 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+18-Dec-2023 14:36:33 INFO - HHH000021: Bytecode provider name : bytebuddy
+18-Dec-2023 14:36:34 INFO - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18-Dec-2023 14:36:34 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+18-Dec-2023 14:36:35 INFO - Started IdGenerationApplication in 7.445 seconds (process running for 9.487)
+18-Dec-2023 14:36:36 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+18-Dec-2023 14:36:36 INFO - HikariPool-1 - Shutdown initiated...
+18-Dec-2023 14:36:36 INFO - HikariPool-1 - Shutdown completed.
